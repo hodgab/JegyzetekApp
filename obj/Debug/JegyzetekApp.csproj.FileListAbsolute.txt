@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\csharp\JegyzetekApp\JegyzetekApp\bin\Debug\JegyzetekApp.exe.config
+C:\Users\hp\Desktop\csharp\JegyzetekApp\JegyzetekApp\bin\Debug\JegyzetekApp.exe
+C:\Users\hp\Desktop\csharp\JegyzetekApp\JegyzetekApp\bin\Debug\JegyzetekApp.pdb
+C:\Users\hp\Desktop\csharp\JegyzetekApp\JegyzetekApp\obj\Debug\JegyzetekApp.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\csharp\JegyzetekApp\JegyzetekApp\obj\Debug\JegyzetekApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\csharp\JegyzetekApp\JegyzetekApp\obj\Debug\JegyzetekApp.form_foablak.resources
+C:\Users\hp\Desktop\csharp\JegyzetekApp\JegyzetekApp\obj\Debug\JegyzetekApp.Properties.Resources.resources
+C:\Users\hp\Desktop\csharp\JegyzetekApp\JegyzetekApp\obj\Debug\JegyzetekApp.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\csharp\JegyzetekApp\JegyzetekApp\obj\Debug\JegyzetekApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\csharp\JegyzetekApp\JegyzetekApp\obj\Debug\JegyzetekApp.exe
+C:\Users\hp\Desktop\csharp\JegyzetekApp\JegyzetekApp\obj\Debug\JegyzetekApp.pdb
